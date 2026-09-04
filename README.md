@@ -1,6 +1,6 @@
 # Hi, I'm Berk
 
-Full-stack developer from Almere, the Netherlands. I build websites and dashboards for small businesses. I care about things that work in real use, not just in a screenshot.
+Full-stack developer from the Netherlands. I build websites and dashboards for businesses. I care about things that work in real use, not just in a screenshot.
 
 ## What I work with
 
